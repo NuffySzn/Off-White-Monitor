@@ -1,4 +1,3 @@
-# Off-White-Monitor
 package com.bayanrasooly;
 
 import org.json.JSONArray;
